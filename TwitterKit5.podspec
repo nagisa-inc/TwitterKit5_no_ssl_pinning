@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage = "https://github.com/touren/twitter-kit-ios"
   s.documentation_url = "https://github.com/touren/twitter-kit-ios/wiki"
   s.social_media_url = "https://taoren.me"
-  s.source = { :git => "https://github.com/nagisa-inc/TwitterKit5_no_ssl_pinning.git", :tag => "5.1.1" }
+  s.source = { :git => "https://github.com/nagisa-inc/TwitterKit5_no_ssl_pinning.git", :tag => "5.1.3" }
   s.authors = "Tao Ren"
   s.platform = :ios, "9.0"
   s.vendored_frameworks = "iOS/TwitterKit.framework"
